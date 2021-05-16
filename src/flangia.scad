@@ -13,8 +13,8 @@ CYLINDER_THICKNESS = 1.5;
 FLANGE_H = 2;
 FLANGE_THICKNESS = 10;
 
-// Screws: M3 + 5% tolerance
-SCREW_RADIUS = 1.575;
+// Screws: M4 + 5% tolerance
+SCREW_RADIUS = 2.1;
 SCREW_H = FLANGE_H;
 
 // Actual script
