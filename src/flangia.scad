@@ -5,16 +5,16 @@
 
 // Constants
 $fn = 50;
-CYLINDER_H = 40;
+CYLINDER_H = 10;
 
-// Radius + 8% tolerance
-CYLINDER_INNER_R = 13.0;
+// Radius + 2% tolerance
+CYLINDER_INNER_R = 11.22;
 CYLINDER_THICKNESS = 1.5;
 FLANGE_H = 2;
 FLANGE_THICKNESS = 10;
 
-// Screws: M4 + 5% tolerance
-SCREW_RADIUS = 2.1;
+// Screws: M4 + 8% tolerance
+SCREW_RADIUS = 2.16;
 SCREW_H = FLANGE_H;
 
 // Actual script
