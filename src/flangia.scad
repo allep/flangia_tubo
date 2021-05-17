@@ -5,10 +5,10 @@
 
 // Constants
 $fn = 50;
-CYLINDER_H = 10;
+CYLINDER_H = 30;
 
-// Radius + 2% tolerance
-CYLINDER_INNER_R = 11.22;
+// Radius + 1% tolerance
+CYLINDER_INNER_R = 11.1;
 CYLINDER_THICKNESS = 1.5;
 FLANGE_H = 2;
 FLANGE_THICKNESS = 10;
